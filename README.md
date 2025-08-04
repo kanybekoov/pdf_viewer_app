@@ -20,7 +20,7 @@
 
 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/kanybekov/pdfviewer.git
+git clone https://github.com/kanybekov/pdf_viewer_app.git
 cd pdfviewer
 
 2. Установи Docker Desktop и запусти его

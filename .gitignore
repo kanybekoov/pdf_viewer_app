@@ -1,7 +1,6 @@
 # root
 node_modules/
 dist/
-.env
 .DS_Store
 
 # backend

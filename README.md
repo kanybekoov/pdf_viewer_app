@@ -17,7 +17,7 @@
 - Сборка: Docker + Docker Compose
 
 ## Как запустить проект
-1. Клонируй репозиторий или скача ZIP файл проекта:
+1. Клонируй репозиторий или скачай ZIP файл проекта:
 ```bash
 git clone https://github.com/your-username/pdf_viewer_app.git
 
